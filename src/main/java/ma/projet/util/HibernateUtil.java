@@ -1,4 +1,4 @@
-package org.example.util;
+package ma.projet.util;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;

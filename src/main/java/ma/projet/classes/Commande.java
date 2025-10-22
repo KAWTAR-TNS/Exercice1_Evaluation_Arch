@@ -1,4 +1,4 @@
-package org.example.entities;
+package ma.projet.classes;
 
 import javax.persistence.Entity;
 import javax.persistence.*;

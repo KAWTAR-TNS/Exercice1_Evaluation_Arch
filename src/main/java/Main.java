@@ -1,9 +1,9 @@
-import org.example.entities.Categorie;
-import org.example.entities.Commande;
-import org.example.entities.LigneCommande;
-import org.example.entities.Produit;
-import org.example.service.ProduitService;
-import org.example.util.HibernateUtil;
+import ma.projet.classes.Categorie;
+import ma.projet.classes.Commande;
+import ma.projet.classes.LigneCommande;
+import ma.projet.classes.Produit;
+import ma.projet.service.ProduitService;
+import ma.projet.util.HibernateUtil;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 

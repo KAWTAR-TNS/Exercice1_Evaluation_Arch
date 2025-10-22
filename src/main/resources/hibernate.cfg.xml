@@ -20,10 +20,10 @@
         <property name="hibernate.show_sql">true</property>
         <property name="hibernate.format_sql">true</property>
 
-        <mapping class="org.example.entities.Categorie"/>
-        <mapping class="org.example.entities.Produit"/>
-        <mapping class="org.example.entities.Commande"/>
-        <mapping class="org.example.entities.LigneCommande"/>
+        <mapping class="ma.projet.classes.Categorie"/>
+        <mapping class="ma.projet.classes.Produit"/>
+        <mapping class="ma.projet.classes.Commande"/>
+        <mapping class="ma.projet.classes.LigneCommande"/>
 
     </session-factory>
 </hibernate-configuration>

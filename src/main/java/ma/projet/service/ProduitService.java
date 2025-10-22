@@ -1,10 +1,10 @@
-package org.example.service;
+package ma.projet.service;
 
-import org.example.entities.Categorie;
-import org.example.entities.Commande;
-import org.example.entities.Produit;
-import org.example.dao.IDao;
-import org.example.util.HibernateUtil;
+import ma.projet.classes.Categorie;
+import ma.projet.classes.Commande;
+import ma.projet.classes.Produit;
+import ma.projet.dao.IDao;
+import ma.projet.util.HibernateUtil;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.hibernate.query.Query;
