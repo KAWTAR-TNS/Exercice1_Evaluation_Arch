@@ -1,3 +1,2 @@
-# Gestion de Stock – Magasin de Produits Informatiques
-
+# Gestion de Stock 
 ![](/docs/result.png)
